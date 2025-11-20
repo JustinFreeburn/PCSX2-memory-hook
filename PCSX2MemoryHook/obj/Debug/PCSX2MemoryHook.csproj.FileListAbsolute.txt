@@ -1,0 +1,15 @@
+C:\Users\justi\source\repos\PCSX2MemoryHook\PCSX2MemoryHook\bin\Debug\PCSX2MemoryHook.exe.config
+C:\Users\justi\source\repos\PCSX2MemoryHook\PCSX2MemoryHook\bin\Debug\PCSX2MemoryHook.exe
+C:\Users\justi\source\repos\PCSX2MemoryHook\PCSX2MemoryHook\bin\Debug\PCSX2MemoryHook.pdb
+C:\Users\justi\source\repos\PCSX2MemoryHook\PCSX2MemoryHook\obj\Debug\PCSX2MemoryHook.csprojAssemblyReference.cache
+C:\Users\justi\source\repos\PCSX2MemoryHook\PCSX2MemoryHook\obj\Debug\PCSX2MemoryHook.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\PCSX2MemoryHook\PCSX2MemoryHook\obj\Debug\PCSX2MemoryHook.exe
+C:\Users\justi\source\repos\PCSX2MemoryHook\PCSX2MemoryHook\obj\Debug\PCSX2MemoryHook.pdb
+G:\The Warriors\2024\PCSX2MemoryHook\PCSX2MemoryHook\bin\Debug\PCSX2MemoryHook.exe.config
+G:\The Warriors\2024\PCSX2MemoryHook\PCSX2MemoryHook\bin\Debug\PCSX2MemoryHook.exe
+G:\The Warriors\2024\PCSX2MemoryHook\PCSX2MemoryHook\bin\Debug\PCSX2MemoryHook.pdb
+G:\The Warriors\2024\PCSX2MemoryHook\PCSX2MemoryHook\obj\Debug\PCSX2MemoryHook.csproj.AssemblyReference.cache
+G:\The Warriors\2024\PCSX2MemoryHook\PCSX2MemoryHook\obj\Debug\PCSX2MemoryHook.exe.config
+G:\The Warriors\2024\PCSX2MemoryHook\PCSX2MemoryHook\obj\Debug\PCSX2MemoryHook.csproj.CoreCompileInputs.cache
+G:\The Warriors\2024\PCSX2MemoryHook\PCSX2MemoryHook\obj\Debug\PCSX2MemoryHook.exe
+G:\The Warriors\2024\PCSX2MemoryHook\PCSX2MemoryHook\obj\Debug\PCSX2MemoryHook.pdb
